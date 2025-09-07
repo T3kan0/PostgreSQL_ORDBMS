@@ -1,6 +1,6 @@
--- manually populating tables in the ORDBMS
+-- manually populating tables with data in the ORDBMS for the tutorial programme.
 
--- NB: prior to running this script, the create_tables.sql script must be ran first to create the four tables to be populated with data..
+-- NB: Prior to running this script, the create_tables.sql script must be ran first to create the four tables to be populated with data..
 
 
 -- populate tutor table
