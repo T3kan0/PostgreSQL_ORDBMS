@@ -8,7 +8,7 @@ Developing a relational database with Postgresql...
 
 2) Create tables, one for every noun found in the mission statement:
 
-> psql -U your_username -d your_database -f my_script.sql
+> >psql -U @mbonanits -d postgres -f create_tables.sql
 
 
 
